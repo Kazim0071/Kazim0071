@@ -10,7 +10,7 @@
 
   <!-- Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=680&height=40&lines=Machine+Learning+%26+Deep+Learning+Engineer;Full+Stack+Next.js+%26+Python+Developer;Data+Pipelines%2C+Model+Training+%26+APIs;Predictive+Systems+%26+Production+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=680&height=40&lines=Machine+Learning+%26+Deep+Learning+Engineer;Full+Stack+Next.js+%26+Python+Developer;Data+Pipelines%2C+Model+Training+%26+APIs;Turning+ML+Models+into+Real+Products" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -36,13 +36,13 @@
 
 ### 💡 About Me
 
-I bridge the gap between **machine learning models** and **scalable, production-grade web applications**. My workflow covers the full development cycle: from exploratory data analysis, data preprocessing, and model training in **Python & PyTorch** to architecting robust APIs in **Flask / FastAPI / Node.js** and delivering responsive, production interfaces in **Next.js & TypeScript**.
+I bridge the gap between **machine learning models** and **full stack web applications**. My workflow covers the full development cycle: from exploratory data analysis, data preprocessing, and model training in **Python & PyTorch** to building APIs in **Flask / Node.js** and delivering responsive interfaces in **Next.js & TypeScript**.
 
 - 💼 **Current Position:** Full Stack Next.js Developer at **Alkhidmat Foundation – Digital**, Lahore
 - 🧠 **Machine Learning:** Predictive Modeling, Deep Learning (CNNs), Classification & Time-Series Regression
-- 💻 **Full-Stack Engineering:** React / Next.js (App Router), TypeScript, Tailwind CSS, Python (Flask/FastAPI), PostgreSQL, MongoDB
-- 🔮 **Current Exploration:** Generative AI, Large Language Models (LLMs), RAG pipelines & Autonomous AI Agents
-- 🤝 **Open For:** **Machine Learning Engineer**, **AI Engineer**, and **Full Stack Developer** roles (Lahore, Hybrid, or Global Remote)
+- 💻 **Full-Stack Engineering:** React / Next.js (App Router), TypeScript, Tailwind CSS, Python (Flask), PostgreSQL, MongoDB
+- 🔮 **Current Exploration:** Generative AI, Large Language Models (LLMs) & Agentic AI
+- 🤝 **Open For:** **Machine Learning Engineer**, **AI Engineer**, and **Full Stack Developer** roles (Lahore, Hybrid, or Remote)
 
 ---
 
@@ -59,7 +59,6 @@ I bridge the gap between **machine learning models** and **scalable, production-
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
       <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
     </td>
   </tr>
   <tr>
@@ -71,16 +70,16 @@ I bridge the gap between **machine learning models** and **scalable, production-
   <tr>
     <td width="25%" valign="top"><b>⚙️ Backend &amp; Databases</b></td>
     <td width="75%">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,postgres,mongodb&theme=dark" alt="Backend Icons" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb&theme=dark" alt="Backend Icons" />
       <br/><br/>
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-      <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
     </td>
   </tr>
   <tr>
     <td width="25%" valign="top"><b>🚀 DevOps &amp; Workflow</b></td>
     <td width="75%">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,linux&theme=dark" alt="DevOps Icons" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark" alt="DevOps Icons" />
     </td>
   </tr>
 </table>
@@ -115,11 +114,11 @@ I bridge the gap between **machine learning models** and **scalable, production-
     <tr>
       <td>
         <b>📊 Telecom Customer Churn Prediction</b> &nbsp;<sub><img src="https://img.shields.io/badge/In_Progress-F59E0B?style=flat-square" alt="In Progress" /></sub><br/>
-        <sub>End-to-end production predictive pipeline for telecom subscriber retention: exploratory data analysis, class imbalance mitigation (SMOTE), feature selection, cross-validation, and risk-scoring inference API.</sub>
+        <sub>End-to-end pipeline to predict telecom customer churn. Exploratory data analysis underway; classification modeling, recall and ROC-AUC evaluation, and API serving planned.</sub>
       </td>
       <td>
         <code>Python</code> <code>Scikit-learn</code><br/>
-        <code>Pandas</code> <code>NumPy</code> <code>Flask</code>
+        <code>Pandas</code> <code>NumPy</code>
       </td>
       <td>
         <a href="https://github.com/Kazim0071/churn-detection" target="_blank"><b>📂 Repository ↗</b></a>
@@ -140,8 +139,8 @@ I bridge the gap between **machine learning models** and **scalable, production-
     </tr>
     <tr>
       <td>
-        <b>🫀 Heart Disease Clinical Classification</b><br/>
-        <sub>Diagnostic machine learning study benchmarking Logistic Regression, KNN, and Random Forest classifiers on clinical health data. Hyperparameter optimization via RandomizedSearchCV &amp; GridSearchCV, evaluated with ROC-AUC.</sub>
+        <b>🫀 Heart Disease Classification</b><br/>
+        <sub>Benchmarked Logistic Regression, KNN, and Random Forest classifiers on patient health data. Hyperparameter optimization via RandomizedSearchCV &amp; GridSearchCV, evaluated with ROC-AUC and cross-validation.</sub>
       </td>
       <td>
         <code>Scikit-learn</code> <code>Pandas</code><br/>
@@ -167,10 +166,10 @@ I bridge the gap between **machine learning models** and **scalable, production-
     <tr>
       <td>
         <b>🛒 Amazona E-Commerce Platform</b><br/>
-        <sub>Full-stack production-ready MERN online retail store featuring JWT authentication, stateful shopping cart, product catalog filtering, order management lifecycle, and PayPal payment checkout.</sub>
+        <sub>Full stack online store with JWT authentication, shopping cart, product catalog filtering, order management, and Stripe checkout.</sub>
       </td>
       <td>
-        <code>React</code> <code>Redux</code> <code>Node.js</code><br/>
+        <code>Next.js</code> <code>Zustand</code> <code>Node.js</code><br/>
         <code>Express</code> <code>MongoDB</code>
       </td>
       <td>
@@ -201,5 +200,5 @@ Whether you are looking for an engineer to architect an **end-to-end Machine Lea
   </a>
 
   <br/><br/>
-  <sub><b>Muhammad Qasim Amir</b> &nbsp;·&nbsp; Lahore, Pakistan</sub>
+  <sub><b>Qasim Amir</b> &nbsp;·&nbsp; Lahore, Pakistan</sub>
 </div>
