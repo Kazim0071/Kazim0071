@@ -8,9 +8,9 @@
 
   <br/>
 
-  <!-- Dynamic Typing Animation -->
+  <!-- Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=42&lines=Machine+Learning+%26+Deep+Learning+Engineer;Full+Stack+Next.js+%26+Python+Developer;Building+AI-Powered+Products+from+Data+to+Deployment;Exploring+Generative+AI%2C+LLMs+%26+Agentic+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=680&height=40&lines=Machine+Learning+%26+Deep+Learning+Engineer;Full+Stack+Next.js+%26+Python+Developer;Data+Pipelines%2C+Model+Training+%26+APIs;Predictive+Systems+%26+Production+Web+Apps" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -18,7 +18,7 @@
   <!-- Quick Action & Social Badges -->
   <p align="center">
     <a href="https://portfolio-frontend-seven-orpin.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/qasimamir/" target="_blank">
@@ -28,8 +28,6 @@
     <a href="mailto:qasim.ameer.dk@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Kazim0071&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -38,11 +36,11 @@
 
 ### 💡 About Me
 
-I bridge the gap between **high-performance Machine Learning models** and **scalable, production-grade Web Applications**. My workflow spans the entire engineering lifecycle: from exploratory data analysis, data cleaning, and training neural networks in **Python & PyTorch** to architecting robust APIs in **Flask / FastAPI / Node.js** and deploying fluid, high-converting interfaces in **Next.js & TypeScript**.
+I bridge the gap between **machine learning models** and **scalable, production-grade web applications**. My workflow covers the full development cycle: from exploratory data analysis, data preprocessing, and model training in **Python & PyTorch** to architecting robust APIs in **Flask / FastAPI / Node.js** and delivering responsive, production interfaces in **Next.js & TypeScript**.
 
 - 💼 **Current Position:** Full Stack Next.js Developer at **Alkhidmat Foundation – Digital**, Lahore
-- 🧠 **AI & ML Focus:** Predictive Modeling, Deep Learning (CNNs), Classification & Time-Series Regression
-- 💻 **Full-Stack Craft:** React / Next.js (App Router), TypeScript, Tailwind CSS, Python (Flask/FastAPI), PostgreSQL, MongoDB
+- 🧠 **Machine Learning:** Predictive Modeling, Deep Learning (CNNs), Classification & Time-Series Regression
+- 💻 **Full-Stack Engineering:** React / Next.js (App Router), TypeScript, Tailwind CSS, Python (Flask/FastAPI), PostgreSQL, MongoDB
 - 🔮 **Current Exploration:** Generative AI, Large Language Models (LLMs), RAG pipelines & Autonomous AI Agents
 - 🤝 **Open For:** **Machine Learning Engineer**, **AI Engineer**, and **Full Stack Developer** roles (Lahore, Hybrid, or Global Remote)
 
@@ -103,7 +101,7 @@ I bridge the gap between **high-performance Machine Learning models** and **scal
     <tr>
       <td>
         <b>💎 Finlytics — AI Financial Intelligence</b><br/>
-        <sub>AI-powered personal finance dashboard with automated transaction tracking, category breakdowns, Pandas analytical reports, CSV data pipeline, and predictive next-month expense forecasting with Linear Regression.</sub>
+        <sub>Personal finance dashboard with automated transaction tracking, category breakdowns, Pandas analytical reports, CSV data pipeline, and predictive next-month expense forecasting with Linear Regression.</sub>
       </td>
       <td>
         <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code><br/>
@@ -130,7 +128,7 @@ I bridge the gap between **high-performance Machine Learning models** and **scal
     <tr>
       <td>
         <b>🧠 Deep Learning with PyTorch</b><br/>
-        <sub>Custom deep neural network training framework: modular training and validation loops, custom PyTorch Dataset &amp; DataLoader pipelines, and CNN architectures (TinyVGG) for computer vision multi-class image classification.</sub>
+        <sub>Deep neural network training framework: modular training and validation loops, custom PyTorch Dataset &amp; DataLoader pipelines, and CNN architectures (TinyVGG) for computer vision multi-class image classification.</sub>
       </td>
       <td>
         <code>PyTorch</code> <code>Torchvision</code><br/>
@@ -184,47 +182,24 @@ I bridge the gap between **high-performance Machine Learning models** and **scal
 
 ---
 
-### 📊 GitHub Activity &amp; Analytics
+### 🤝 Let's Connect
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img height="175" src="https://github-readme-stats.vercel.app/api?username=Kazim0071&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazim0071&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://streak-stats.demolab.com?user=Kazim0071&hide_border=true&theme=tokyonight&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🤝 Let's Connect &amp; Collaborate
-
-Whether you are looking for an engineer to architect an **end-to-end Machine Learning pipeline**, build an **intelligent full-stack web application**, or discuss next-gen **Generative AI &amp; Agentic Systems**, I'm always open to discussing new opportunities.
+Whether you are looking for an engineer to architect an **end-to-end Machine Learning pipeline**, build an **intelligent full-stack web application**, or discuss **Generative AI &amp; Agentic Systems**, feel free to reach out.
 
 <div align="center">
   <br/>
   <a href="mailto:qasim.ameer.dk@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-qasim.ameer.dk@gmail.com-0284C7?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-qasim.ameer.dk@gmail.com-0284C7?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/qasimamir/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://portfolio-frontend-seven-orpin.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Portfolio_Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 
   <br/><br/>
-  <sub>⚡ Designed &amp; Crafted by <a href="https://github.com/Kazim0071"><b>Muhammad Qasim Amir</b></a> &nbsp;·&nbsp; Lahore, Pakistan</sub>
+  <sub><b>Muhammad Qasim Amir</b> &nbsp;·&nbsp; Lahore, Pakistan</sub>
 </div>
