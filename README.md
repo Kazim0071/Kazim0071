@@ -1,54 +1,230 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img alt="Qasim Amir — Machine Learning Engineer & Full Stack Developer" src="./banner-light.svg" width="100%">
-</picture>
+<div align="center">
 
-<p align="right">
-  <a href="https://portfolio-frontend-seven-orpin.vercel.app/"><b>Portfolio</b></a>&nbsp;&nbsp;↗&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/qasimamir/"><b>LinkedIn</b></a>&nbsp;&nbsp;↗&nbsp;&nbsp;&nbsp;
-  <a href="mailto:qasim.ameer.dk@gmail.com"><b>Email</b></a>&nbsp;&nbsp;↗
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+    <img alt="Qasim Amir — Machine Learning Engineer &amp; Full Stack Developer" src="./banner-dark.svg" width="100%">
+  </picture>
 
-<br>
+  <br/>
 
-I build machine learning models and the full stack products that put them in front of real users — from data cleaning and model training in Python to APIs and fast, clean interfaces in Next.js.
+  <!-- Dynamic Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=680&height=42&lines=Machine+Learning+%26+Deep+Learning+Engineer;Full+Stack+Next.js+%26+Python+Developer;Building+AI-Powered+Products+from+Data+to+Deployment;Exploring+Generative+AI%2C+LLMs+%26+Agentic+Workflows" alt="Typing SVG" />
+  </a>
 
-<br>
+  <br/>
 
-## Selected Work
+  <!-- Quick Action & Social Badges -->
+  <p align="center">
+    <a href="https://portfolio-frontend-seven-orpin.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/qasimamir/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:qasim.ameer.dk@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=Kazim0071&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 
-**01 &nbsp;—&nbsp; [Finlytics](https://my-finance-frontend-mu.vercel.app/)** &nbsp;·&nbsp; <sub>[frontend](https://github.com/Kazim0071/my-finance-frontend) · [backend](https://github.com/Kazim0071/my-finance)</sub>
-<br>AI-powered personal finance dashboard with reports, CSV export and next-month expense forecasting.
-<br>`Next.js` `TypeScript` `Flask` `SQLAlchemy` `Scikit-learn`
-
-**02 &nbsp;—&nbsp; [Customer Churn Prediction](https://github.com/Kazim0071/churn-detection)** &nbsp;<sub>in progress</sub>
-<br>End-to-end pipeline to predict telecom customer churn, from EDA to a served model.
-<br>`Python` `Pandas` `Scikit-learn`
-
-**03 &nbsp;—&nbsp; [Deep Learning with PyTorch](https://github.com/Kazim0071/Deep-Learning-with-PyTorch)**
-<br>Training loops, neural network classifiers and CNNs (TinyVGG) for computer vision.
-<br>`PyTorch` `Torchvision`
-
-**04 &nbsp;—&nbsp; [Heart Disease Classification](https://github.com/Kazim0071/heart-disease-classification)**
-<br>Logistic Regression, KNN and Random Forest compared and tuned, evaluated with ROC-AUC and cross-validation.
-<br>`Scikit-learn` `Pandas` `Matplotlib`
-
-**05 &nbsp;—&nbsp; [Bulldozer Price Prediction](https://github.com/Kazim0071/bulldozer-price-prediction)**
-<br>Time-series regression on auction data with date features and a tuned Random Forest.
-<br>`Scikit-learn` `Pandas` `NumPy`
-
-<br>
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,nextjs,react,ts,nodejs,flask,mongodb,postgres,tailwind,git&theme=dark&perline=12" alt="Python, PyTorch, Scikit-learn, Next.js, React, TypeScript, Node.js, Flask, MongoDB, PostgreSQL, Tailwind CSS, Git" height="40">
-</p>
-
-<sub>Currently learning Generative AI, LLMs and Agentic AI.</sub>
-
-<br>
+</div>
 
 ---
 
-<sub>Lahore, Pakistan &nbsp;·&nbsp; Full Stack Next.js Developer at Alkhidmat Foundation – Digital &nbsp;·&nbsp; Open to ML Engineer, AI Engineer and Full Stack roles</sub>
+### 💡 About Me
+
+I bridge the gap between **high-performance Machine Learning models** and **scalable, production-grade Web Applications**. My workflow spans the entire engineering lifecycle: from exploratory data analysis, data cleaning, and training neural networks in **Python & PyTorch** to architecting robust APIs in **Flask / FastAPI / Node.js** and deploying fluid, high-converting interfaces in **Next.js & TypeScript**.
+
+- 💼 **Current Position:** Full Stack Next.js Developer at **Alkhidmat Foundation – Digital**, Lahore
+- 🧠 **AI & ML Focus:** Predictive Modeling, Deep Learning (CNNs), Classification & Time-Series Regression
+- 💻 **Full-Stack Craft:** React / Next.js (App Router), TypeScript, Tailwind CSS, Python (Flask/FastAPI), PostgreSQL, MongoDB
+- 🔮 **Current Exploration:** Generative AI, Large Language Models (LLMs), RAG pipelines & Autonomous AI Agents
+- 🤝 **Open For:** **Machine Learning Engineer**, **AI Engineer**, and **Full Stack Developer** roles (Lahore, Hybrid, or Global Remote)
+
+---
+
+### 🛠️ Tech Stack &amp; Tools
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>🧠 AI &amp; Machine Learning</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&theme=dark" alt="ML Icons" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>💻 Frontend &amp; UI</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,redux&theme=dark" alt="Frontend Icons" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>⚙️ Backend &amp; Databases</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,postgres,mongodb&theme=dark" alt="Backend Icons" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>🚀 DevOps &amp; Workflow</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,linux&theme=dark" alt="DevOps Icons" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="40%">Project &amp; Highlights</th>
+      <th width="35%">Tech Stack</th>
+      <th width="25%">Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>💎 Finlytics — AI Financial Intelligence</b><br/>
+        <sub>AI-powered personal finance dashboard with automated transaction tracking, category breakdowns, Pandas analytical reports, CSV data pipeline, and predictive next-month expense forecasting with Linear Regression.</sub>
+      </td>
+      <td>
+        <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code><br/>
+        <code>Flask</code> <code>SQLAlchemy</code> <code>Scikit-learn</code>
+      </td>
+      <td>
+        <a href="https://my-finance-frontend-mu.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a><br/>
+        <a href="https://github.com/Kazim0071/my-finance-frontend" target="_blank">💻 Frontend</a> &nbsp;|&nbsp; <a href="https://github.com/Kazim0071/my-finance" target="_blank">⚙️ Backend</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📊 Telecom Customer Churn Prediction</b> &nbsp;<sub><img src="https://img.shields.io/badge/In_Progress-F59E0B?style=flat-square" alt="In Progress" /></sub><br/>
+        <sub>End-to-end production predictive pipeline for telecom subscriber retention: exploratory data analysis, class imbalance mitigation (SMOTE), feature selection, cross-validation, and risk-scoring inference API.</sub>
+      </td>
+      <td>
+        <code>Python</code> <code>Scikit-learn</code><br/>
+        <code>Pandas</code> <code>NumPy</code> <code>Flask</code>
+      </td>
+      <td>
+        <a href="https://github.com/Kazim0071/churn-detection" target="_blank"><b>📂 Repository ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🧠 Deep Learning with PyTorch</b><br/>
+        <sub>Custom deep neural network training framework: modular training and validation loops, custom PyTorch Dataset &amp; DataLoader pipelines, and CNN architectures (TinyVGG) for computer vision multi-class image classification.</sub>
+      </td>
+      <td>
+        <code>PyTorch</code> <code>Torchvision</code><br/>
+        <code>Python</code> <code>Matplotlib</code>
+      </td>
+      <td>
+        <a href="https://github.com/Kazim0071/Deep-Learning-with-PyTorch" target="_blank"><b>📂 Repository ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🫀 Heart Disease Clinical Classification</b><br/>
+        <sub>Diagnostic machine learning study benchmarking Logistic Regression, KNN, and Random Forest classifiers on clinical health data. Hyperparameter optimization via RandomizedSearchCV &amp; GridSearchCV, evaluated with ROC-AUC.</sub>
+      </td>
+      <td>
+        <code>Scikit-learn</code> <code>Pandas</code><br/>
+        <code>NumPy</code> <code>Seaborn</code> <code>Matplotlib</code>
+      </td>
+      <td>
+        <a href="https://github.com/Kazim0071/heart-disease-classification" target="_blank"><b>📂 Repository ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🚜 Bulldozer Auction Price Prediction</b><br/>
+        <sub>Time-series regression modeling heavy machinery auction values. Implemented datetime feature decomposition, handled missing categorical variables, and tuned an ensemble Random Forest Regressor evaluated against RMSLE.</sub>
+      </td>
+      <td>
+        <code>Python</code> <code>Scikit-learn</code><br/>
+        <code>Pandas</code> <code>NumPy</code>
+      </td>
+      <td>
+        <a href="https://github.com/Kazim0071/bulldozer-price-prediction" target="_blank"><b>📂 Repository ↗</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🛒 Amazona E-Commerce Platform</b><br/>
+        <sub>Full-stack production-ready MERN online retail store featuring JWT authentication, stateful shopping cart, product catalog filtering, order management lifecycle, and PayPal payment checkout.</sub>
+      </td>
+      <td>
+        <code>React</code> <code>Redux</code> <code>Node.js</code><br/>
+        <code>Express</code> <code>MongoDB</code>
+      </td>
+      <td>
+        <a href="https://github.com/Kazim0071/Ecommerce" target="_blank"><b>📂 Repository ↗</b></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📊 GitHub Activity &amp; Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="175" src="https://github-readme-stats.vercel.app/api?username=Kazim0071&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&bg_color=0d1117" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazim0071&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <img src="https://streak-stats.demolab.com?user=Kazim0071&hide_border=true&theme=tokyonight&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Let's Connect &amp; Collaborate
+
+Whether you are looking for an engineer to architect an **end-to-end Machine Learning pipeline**, build an **intelligent full-stack web application**, or discuss next-gen **Generative AI &amp; Agentic Systems**, I'm always open to discussing new opportunities.
+
+<div align="center">
+  <br/>
+  <a href="mailto:qasim.ameer.dk@gmail.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-qasim.ameer.dk@gmail.com-0284C7?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/qasimamir/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfolio-frontend-seven-orpin.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio_Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <br/><br/>
+  <sub>⚡ Designed &amp; Crafted by <a href="https://github.com/Kazim0071"><b>Muhammad Qasim Amir</b></a> &nbsp;·&nbsp; Lahore, Pakistan</sub>
+</div>
